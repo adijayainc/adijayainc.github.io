@@ -1,4 +1,4 @@
-# Digitalneo Project 
+# Adijaya Inc 
 
 ### Machine Learning
 
