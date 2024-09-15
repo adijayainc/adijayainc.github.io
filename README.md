@@ -1,4 +1,16 @@
-# Adijaya Inc 
+# Adijaya Inc Worlds
+
+### Artificial Intelegent 
+
+Gen AI , pembahasan generative AI 
+Large Language Machine 
+Strawberry chatgpt
+
+### Filsafat 
+
+- Ngaji Filsafat ( Masjid Sudirman Yogjakarta)
+
+
 
 ### Machine Learning
 Open Source Machine learning 
