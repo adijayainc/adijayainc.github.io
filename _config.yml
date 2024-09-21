@@ -1,10 +1,19 @@
 title: AdijayaInc Project 
 author:
   name: Trias Adijaya
-  email: trias.adijaya@gmail.com
+  email: "trias.adijaya@gmail.com"
   
 # logo: /assets/img/digitalneo.png
 description: "Your partner in digital world"
 show_downloads: true
 # theme: jekyll-theme-minimal
 theme: minima
+minima : 
+  dark
+  date_format: "%b %-d, %Y"
+    social_links:
+    - { platform: github,  user_url: "https://github.com/adijayainc" }
+    - { platform: twitter, user_url: "https://twitter.com/adijayainc" }
+header_pages:
+  - about.md
+  - portfolio.md
