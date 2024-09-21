@@ -7,4 +7,4 @@ author:
 description: "Your partner in digital world"
 show_downloads: true
 # theme: jekyll-theme-minimal
-theme: jekyll-theme-minima
+theme: minima
