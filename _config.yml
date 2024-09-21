@@ -1,5 +1,9 @@
-title: Adijaya Project 
+title: AdijayaInc Project 
+author:
+  name: Trias Adijaya
+  email: trias.adijaya@gmail.com
+  
 # logo: /assets/img/digitalneo.png
-description: your partner on digital world
+description: "Your partner in digital world"
 show_downloads: true
 theme: jekyll-theme-minimal
