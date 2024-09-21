@@ -6,4 +6,5 @@ author:
 # logo: /assets/img/digitalneo.png
 description: "Your partner in digital world"
 show_downloads: true
-theme: jekyll-theme-minimal
+# theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
