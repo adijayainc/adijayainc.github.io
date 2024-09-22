@@ -1,14 +1,19 @@
 # Site settings
-title: Repository of Me
+title: Repositori Adijaya Di GitHub
 author:
   name: Adijaya
-  email: adijaya@gmail.com
-description: "The worlds of Adijaya."
+  email: trias.adijaya@gmail.com
+description: > 
+  Mempelajari ilmu dengan membaca dan mendengarkan diikat dengan membuat catatan dan lebih bermanfaat dengan menjalankan.
+  Semoga akan berguna untuk saat ini maupun masa depan.
+  Repositori Adijaya merupakan usaha mencatat kumpulan apa saja yang terlintas, dibuat terbuka untuk publik  agar terhindar dari kepentingan
+  dan dapat ikutin agar lebih bermanfaat.
+
 github_username: adijayainc
 
 # Email and twitter are optional:
-email: trias.adijaya@gmail.com
-twitter_username: adijayainc
+# email: trias.adijaya@gmail.com
+# twitter_username: adijayainc
 
 
 # Build settings
@@ -20,7 +25,7 @@ minima:
   date_format: "%b %-d, %Y"
   
 header_pages:
-- about.md
+ - about.md
 
 # Set this to true to get LaTeX math equation support
 use_math: null
