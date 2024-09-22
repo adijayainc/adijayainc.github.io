@@ -7,14 +7,18 @@ permalink: /about/
 Repo Adijaya di github merupakan dokumentasi aktifitas dalam dunia digital.
 
 Anda bisa mendapatkan :
-[Adijayainc][AdijayaInc-organization] /
+
+[AdijayaInc] /
 [Adijayacom](https://www.adijaya.com)
 
-[kaypuna][kaypuna-organization] /
-[kaypuna](https://kaypuna.com)
+[Kaypuna] /
+[kaypuna.com](https://kaypuna.com)
 
-[digitalneo][digitalneo-organization] /
-[kaypuna](https://digitalneo.id)
+[DigitalNeo] /
+[digitalneo.id](https://digitalneo.id)
 
-[binakerta][binakerta-fondation] /
-[binakerta](https://binakerta.or.id)
+[Binakerta Utama binakerta] /
+[binakerta.or.id](https://binakerta.or.id)
+
+[Selangit] /
+[Selangit.com](https://selangit.com)
