@@ -20,7 +20,7 @@ minima:
   date_format: "%b %-d, %Y"
   
 header_pages:
-  - about.md
+- about.md
 
 # Set this to true to get LaTeX math equation support
 use_math: null
