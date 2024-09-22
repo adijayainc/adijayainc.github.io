@@ -12,8 +12,8 @@ twitter_username: adijayainc
 
 
 # Build settings
-remote_theme: jekyll/minima
-# theme: minima
+# remote_theme: jekyll/minima
+theme: minima
 minima:
   skin: classic
 
@@ -21,7 +21,6 @@ minima:
   
 header_pages:
   - about.md
-  - portfolio.md
 
 # Set this to true to get LaTeX math equation support
 use_math: null
@@ -36,6 +35,7 @@ plugins:
   - jekyll-gist
   - jekyll-octicons
   - jekyll-github-metadata
+  - jekyll-seo-tag
 
 titles_from_headings:
   enabled: true
@@ -51,7 +51,7 @@ kramdown:
   hard_wrap: false
   syntax_highlighter: rouge
    # Generate social links in footer.
-  social_links:
+social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
@@ -67,5 +67,5 @@ kramdown:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-    - { platform: x,              user_url: "https://x.com/adijayainc" }
-    - { platform: youtube,        user_url: "https://www.youtube.com/adijayainc" }
+  - { platform: x,              user_url: "https://x.com/adijayainc" }
+  - { platform: youtube,        user_url: "https://www.youtube.com/adijayainc" }
