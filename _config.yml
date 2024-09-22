@@ -4,37 +4,15 @@ author:
   name: Adijaya
   email: trias.adijaya@gmail.com
 description: > 
-  Mempelajari ilmu dengan membaca dan mendengarkan diikat dengan membuat catatan dan lebih bermanfaat dengan menjalankan.
-  Semoga akan berguna untuk saat ini maupun masa depan.
   Repositori Adijaya merupakan usaha mencatat kumpulan apa saja yang terlintas, dibuat terbuka untuk publik  agar terhindar dari kepentingan
-  dan dapat ikutin agar lebih bermanfaat.
-
-github_username: adijayainc
-
-# Email and twitter are optional:
-# email: trias.adijaya@gmail.com
-# twitter_username: adijayainc
+  dan dapat lebih bermanfaat bagi siapa saja.
 
 
 # Build settings
-# remote_theme: jekyll/minima
-theme: minima
-minima:
-  skin: classic
-
-  date_format: "%b %-d, %Y"
-  
-header_pages:
- - about.md
-
-# Set this to true to get LaTeX math equation support
-use_math: null
-
-# Add your Google Analytics ID here if you have one and want to use it
-google_analytics: null
-
-# Everything below here can be ignored, unless you want to change the theme entirely
 # theme: minima
+# the newest is in remote themr 
+remote_theme: jekyll/minima
+
 plugins:
   - jekyll-feed
   - jekyll-gist
@@ -42,21 +20,15 @@ plugins:
   - jekyll-github-metadata
   - jekyll-seo-tag
 
-titles_from_headings:
-  enabled: true
-  strip_title: true
-  collections: true
+header_pages:
+ - about.md
 
-highlighter: rouge
-markdown: kramdown
-kramdown:
-  math_engine: katex
-  input: GFM
-  auto_ids: true
-  hard_wrap: false
-  syntax_highlighter: rouge
-   # Generate social links in footer.
-social_links:
+minima:
+  skin: classic
+
+  date_format: "%b %-d, %Y"
+  # Generate social links in footer.
+  social_links:
   #  - { platform: devto,          user_url: "https://dev.to/jekyll" }
   #  - { platform: dribbble,       user_url: "https://dribbble.com/jekyll" }
   #  - { platform: facebook,       user_url: "https://www.facebook.com/jekyll" }
@@ -72,5 +44,18 @@ social_links:
   #  - { platform: stackoverflow,  user_url: "https://stackoverflow.com/users/1234567/jekyll" }
   #  - { platform: telegram,       user_url: "https://t.me/jekyll" }
   #  - { platform: twitter,        user_url: "https://twitter.com/jekyllrb" }
-  - { platform: x,              user_url: "https://x.com/adijayainc" }
-  - { platform: youtube,        user_url: "https://www.youtube.com/adijayainc" }
+    - { platform: x,              user_url: "https://x.com/adijayainc" }
+    - { platform: youtube,        user_url: "https://www.youtube.com/adijayainc" }
+
+
+# Set this to true to get LaTeX math equation support
+use_math: null
+
+# Add your Google Analytics ID here if you have one and want to use it
+google_analytics: null
+
+# Everything below here can be ignored, unless you want to change the theme entirely
+# theme: minima
+
+
+ 
