@@ -15,7 +15,7 @@ twitter_username: adijayainc
 remote_theme: jekyll/minima
 # theme: minima
 minima:
-skin: classic
+  skin: classic
 
   date_format: "%b %-d, %Y"
   
