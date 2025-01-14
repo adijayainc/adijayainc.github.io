@@ -6,6 +6,10 @@ permalink: /portofolio/
 
 # Aktifitas:
 -  Project Management 
--  Artificial Intelegent 
+-  Generative Artificial Intelegent 
 -  Data Analytic
--  System Administrator 
+-  Data Science
+-  System Administrator
+-  Information Technology Service Mangement
+-  IT Master Plan
+-  Cloud Architect  

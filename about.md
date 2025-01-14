@@ -10,7 +10,7 @@ Repo Adijaya di github merupakan dokumentasi aktifitas dalam dunia digital.
 Anda bisa mendapatkan :
 
 [AdijayaInc] /
-[Adijaya.com](https://www.adijaya.com)
+[www.adijaya.com](https://www.adijaya.com)
 
 [Kaypuna] /
 [kaypuna.com](https://kaypuna.com)
@@ -21,5 +21,8 @@ Anda bisa mendapatkan :
 [Binakerta Utama binakerta] /
 [binakerta.or.id](https://binakerta.or.id)
 
-[Selangit] /
+[Selangit.com] /
 [Selangit.com](https://selangit.com)
+
+[selangit.id] /
+[selangit.id](https://selangit.id)
