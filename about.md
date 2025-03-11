@@ -15,6 +15,9 @@ Anda bisa mendapatkan :
 [Kaypuna] /
 [kaypuna.com](https://kaypuna.com)
 
+[Kaypuna] /
+[kaypuna.id](https://kaypuna.id)
+
 [DigitalNeo] /
 [digitalneo.id](https://digitalneo.id)
 
