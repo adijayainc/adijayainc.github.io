@@ -1,5 +1,3 @@
-# 3 rules of thumbs of Ray Dalio
-
 The principles of managing debt, income, and productivity are critical for maintaining economic stability and personal financial health. Here’s an elaboration on the concepts of ensuring that debt does not rise faster than income, that income does not outpace productivity, and strategies to enhance productivity.
 
 ## Debt Management
