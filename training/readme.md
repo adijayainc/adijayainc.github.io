@@ -1,4 +1,5 @@
-Resume bacaan buku
+Resume bacaan buku dan dokumen hasil download 
+
 ## AI dillema ---
 layout: post
 title: "This post demonstrates post content styles"
